@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <!-- Solid Black background circle for high contrast inside the barcode -->
+  <circle cx="256" cy="256" r="256" fill="#000000" />
+  
+  <!-- Centered and scaled group for the TikTok logo paths -->
+  <g transform="translate(121.6, 102.4) scale(0.6)">
+    <!-- Cyan shadow offset to the top-left -->
+    <path fill="#25f4ee" transform="translate(-16, -16)" d="M448,209.91a210.06,210.06,0,0,1-122.77-39.25V349.38A162.55,162.55,0,1,1,185,188.31V278.2a74.62,74.62,0,1,0,52.23,71.18V0l88,0a121.18,121.18,0,0,0,1.86,22.17h0A122.18,122.18,0,0,0,381,102.39a121.43,121.43,0,0,0,67,20.14Z" />
+    
+    <!-- Red/Pink shadow offset to the bottom-right -->
+    <path fill="#fe2c55" transform="translate(16, 16)" d="M448,209.91a210.06,210.06,0,0,1-122.77-39.25V349.38A162.55,162.55,0,1,1,185,188.31V278.2a74.62,74.62,0,1,0,52.23,71.18V0l88,0a121.18,121.18,0,0,0,1.86,22.17h0A122.18,122.18,0,0,0,381,102.39a121.43,121.43,0,0,0,67,20.14Z" />
+    
+    <!-- Crisp White main path in the center -->
+    <path fill="#ffffff" d="M448,209.91a210.06,210.06,0,0,1-122.77-39.25V349.38A162.55,162.55,0,1,1,185,188.31V278.2a74.62,74.62,0,1,0,52.23,71.18V0l88,0a121.18,121.18,0,0,0,1.86,22.17h0A122.18,122.18,0,0,0,381,102.39a121.43,121.43,0,0,0,67,20.14Z" />
+  </g>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <!-- Official WhatsApp Business Green Gradient -->
+    <linearGradient id="wa-biz-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#25D366" />
+      <stop offset="100%" stop-color="#128C7E" />
+    </linearGradient>
+  </defs>
+
+  <!-- Scaled group to allow room for the thick protective white border -->
+  <g transform="translate(46, 46) scale(0.82)">
+    
+    <!-- Layer 1: Protective White Outline / Sticker Border -->
+    <path 
+      fill="#ffffff" 
+      stroke="#ffffff" 
+      stroke-width="50" 
+      stroke-linejoin="round"
+      d="M256.064,0h-0.128l0,0C114.784,0,0,114.816,0,256c0,56,18.048,107.904,48.736,150.048l-31.904,95.104 l98.4-31.456C155.712,496.512,204,512,256.064,512C397.216,512,512,397.152,512,256S397.216,0,256.064,0z" 
+    />
+    
+    <!-- Layer 2: Main Green Speech Bubble -->
+    <path 
+      fill="url(#wa-biz-grad)" 
+      d="M256.064,0h-0.128l0,0C114.784,0,0,114.816,0,256c0,56,18.048,107.904,48.736,150.048l-31.904,95.104 l98.4-31.456C155.712,496.512,204,512,256.064,512C397.216,512,512,397.152,512,256S397.216,0,256.064,0z" 
+    />
+
+    <!-- Layer 3: The Custom Vector 'B' for Business -->
+    <path 
+      fill="none" 
+      stroke="#ffffff" 
+      stroke-width="52" 
+      stroke-linecap="round" 
+      stroke-linejoin="round"
+      d="M 176 372 L 176 140 L 256 140 C 301 140, 316 165, 316 198 C 316 231, 301 256, 256 256 L 176 256 L 266 256 C 316 256, 336 280, 336 314 C 336 348, 316 372, 266 372 Z" 
+    />
+    
+  </g>
+</svg>

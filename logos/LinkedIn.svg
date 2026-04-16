@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <!-- Outer protective white 'sticker' base -->
+  <rect width="512" height="512" rx="112" fill="#ffffff" />
+  
+  <!-- Official LinkedIn Blue Box -->
+  <rect x="32" y="32" width="448" height="448" rx="80" fill="#0a66c2" />
+  
+  <!-- Group for the 'in' letters, centered perfectly within the canvas -->
+  <g fill="#ffffff" transform="translate(32, 0)">
+    <!-- 'i' Dot -->
+    <circle cx="102.2" cy="135.1" r="38.5" />
+    
+    <!-- 'i' Stem -->
+    <rect x="69" y="202.2" width="66.4" height="213.8" />
+    
+    <!-- 'n' Letter -->
+    <path d="M379.1,416h-66.5V312.1c0-24.8-0.4-56.7-34.5-56.7 c-34.6,0-39.9,27-39.9,54.9V416h-66.5V202.2h63.8v29.2h0.9c8.9-16.8,30.6-34.5,62.9-34.5c67.2,0,79.7,44.3,79.7,101.9V416z" />
+  </g>
+</svg>
